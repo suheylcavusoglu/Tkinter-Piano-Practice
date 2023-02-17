@@ -1,0 +1,137 @@
+Author: Süheyl Çavuşoğlu - 17.02.23
+This documentation provides information about the piano practice application.
+
+- There are some songs you can listen to (please click the button to listen).
+
+- There are some empty files you can fill in (write your song's notes into a text file and give a name to that file).
+
+- You can make practice with keyboard and you can write your own song.
+
+'<a>' --> C4
+'<w>' --> Db4
+'<s>' --> D4
+'<e>' --> Eb4
+'<d>' --> E4
+'<f>' --> F4
+'<t>' --> Gb4
+'<g>' --> G4
+'<y>' --> Ab4      # The following keys are assigned to the notes indicated by the arrow.
+'<h>' --> A4
+'<u>' --> Bb4
+'<j>' --> B4
+'<k>' --> C5
+'<o>' --> Db5
+'<l>' --> D5
+'<p>' --> Eb5
+'<i>' --> E5
+
+- There are 88 sound files one belongs to the piano.
+
+- These 88 files represent 7 octaves, but the 3 most frequently used octaves are included in the application (if you want, you can add other octaves).
+
+- Each piano key is represented by the sound file indicated below;
+
+	- 1st Octave;
+
+		- Do   --> C1.mp3						
+		  Do#  --> Db1.mp3
+		  Re   --> D1.mp3
+		  Re#  --> Eb1.mp3
+		  Mi   --> E1.mp3
+		  Fa   --> F1.mp3
+		  Fa#  --> Gb1.mp3
+		  Sol  --> G1.mp3
+		  Sol# --> Ab1.mp3
+		  La   --> A1.mp3
+		  Sib  --> Bb1.mp3
+		  Si   --> B1.mp3
+
+	- 2nd Octave;
+
+		- Do   --> C2.mp3
+		  Do#  --> Db2.mp3
+		  Re   --> D2.mp3
+		  Re#  --> Eb2.mp3
+		  Mi   --> E2.mp3
+		  Fa   --> F2.mp3
+		  Fa#  --> Gb2.mp3
+		  Sol  --> G2.mp3
+		  Sol# --> Ab2.mp3
+		  La   --> A2.mp3
+		  Sib  --> Bb2.mp3
+		  Si   --> B2.mp3
+
+	- 3rd Octave;
+
+		- Do   --> C3.mp3
+		  Do#  --> Db3.mp3
+		  Re   --> D3.mp3
+		  Re#  --> Eb3.mp3
+		  Mi   --> E3.mp3
+		  Fa   --> F3.mp3
+		  Fa#  --> Gb3.mp3
+		  Sol  --> G3.mp3
+		  Sol# --> Ab3.mp3
+		  La   --> A3.mp3
+		  Sib  --> Bb3.mp3
+		  Si   --> B3.mp3
+
+	- 4th Octave;
+
+		- Do   --> C4.mp3
+		  Do#  --> Db4.mp3
+		  Re   --> D4.mp3
+		  Re#  --> Eb4.mp3
+		  Mi   --> E4.mp3
+		  Fa   --> F4.mp3
+		  Fa#  --> Gb4.mp3
+		  Sol  --> G4.mp3
+		  Sol# --> Ab4.mp3
+		  La   --> A4.mp3
+		  Sib  --> Bb4.mp3
+		  Si   --> B4.mp3
+
+	- 5th Octave;
+
+		- Do   --> C5.mp3
+		  Do#  --> Db5.mp3
+		  Re   --> D5.mp3
+		  Re#  --> Eb5.mp3
+		  Mi   --> E5.mp3
+		  Fa   --> F5.mp3
+		  Fa#  --> Gb5.mp3
+		  Sol  --> G5.mp3
+		  Sol# --> Ab5.mp3
+		  La   --> A5.mp3
+		  Sib  --> Bb5.mp3
+		  Si   --> B5.mp3
+
+	- 6th Octave;
+
+		- Do   --> C6.mp3
+		  Do#  --> Db6.mp3
+		  Re   --> D6.mp3
+		  Re#  --> Eb6.mp3
+		  Mi   --> E6.mp3
+		  Fa   --> F6.mp3
+		  Fa#  --> Gb6.mp3
+		  Sol  --> G6.mp3
+		  Sol# --> Ab6.mp3
+		  La   --> A6.mp3
+		  Sib  --> Bb6.mp3
+		  Si   --> B6.mp3
+
+	- 7th Octave;
+
+		- Do   --> C7.mp3
+		  Do#  --> Db7.mp3
+		  Re   --> D7.mp3
+		  Re#  --> Eb7.mp3
+		  Mi   --> E7.mp3
+		  Fa   --> F7.mp3
+		  Fa#  --> Gb7.mp3
+		  Sol  --> G7.mp3
+		  Sol# --> Ab7.mp3
+		  La   --> A7.mp3
+		  Sib  --> Bb7.mp3
+		  Si   --> B7.mp3
